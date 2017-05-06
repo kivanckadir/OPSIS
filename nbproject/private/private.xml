@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/RandevuEkrani.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/Ilac.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/Takvim.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/NewJFrame.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/Sekreter.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/HastaInterface.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/RandevuInterface.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/Bildirim.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/DoktorEkrani.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/Kullanici.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/HastaGuncellemeEkrani.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/controllers/RandevuController.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/KullaniciInterface.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/controllers/GirisController.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/NotInterface.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/ReceteInterface.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/HastaKayitEkrani.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/Randevu.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/Kisi.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/Not.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/SekreterEkrani.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/GirisEkrani.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/Doktor.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/Recete.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/SifremiUnuttumEkrani.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/controllers/SekreterController.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/YoneticiEkrani.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/Hasta.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/views/EminMisiniz.java</file>
+            <file>file:/D:/Users/Kıvanç/Documents/NetBeansProjects/OPSIS/src/opsis/models/Yonetici.java</file>
+        </group>
+    </open-files>
+</project-private>
